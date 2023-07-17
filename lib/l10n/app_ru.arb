@@ -1,0 +1,7 @@
+{
+    "loginTitle": "Авторизаци",
+    "loginUsernameHint": "Логин или почта",
+    "loginPasswordHint": "Пароль",
+    "loginButtonTitle": "Войти",
+    "loginRegisterButtonTitle": "Зарегистрироваться"
+}

@@ -1,0 +1,7 @@
+{
+    "loginTitle": "Authorization",
+    "loginUsernameHint": "Login or email",
+    "loginPasswordHint": "Password",
+    "loginButtonTitle": "Login",
+    "loginRegisterButtonTitle": "Register"
+}
