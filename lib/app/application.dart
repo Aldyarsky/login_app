@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/services.dart';
 import 'package:go_router/go_router.dart';
 import 'package:loader_overlay/loader_overlay.dart';
 import 'package:login_app/app/auth_provider/auth_provider.dart';
@@ -96,6 +97,10 @@ class Application extends StatelessWidget {
         ),
       ],
     );
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.portraitUp,
+      DeviceOrientation.portraitDown,
+    ]);
     return Sizer(
       builder: (context, orientation, deviceType) {
         return GlobalLoaderOverlay(

@@ -16,12 +16,11 @@ class CustomButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return CupertinoButton.filled(
-      onPressed: onPressed,
-      child: Container(
-        width: 100.w,
+    return SizedBox(
+      width: 100.w,
+      child: CupertinoButton.filled(
+        onPressed: onPressed,
         padding: padding ?? const EdgeInsets.all(16),
-        alignment: Alignment.center,
         child: Text(
           title,
           style: CupertinoTheme.of(context).textTheme.textStyle.copyWith(

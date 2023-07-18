@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (Pixel 6)",
+            "program": "lib/main.dart",
+            "deviceId": "24211FDF60061K",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

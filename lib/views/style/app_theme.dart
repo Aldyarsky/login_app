@@ -9,6 +9,7 @@ class AppTheme {
     return const CupertinoThemeData(
       scaffoldBackgroundColor: AppColors.grayBg,
       primaryColor: AppColors.purple,
+      barBackgroundColor: AppColors.whiteBg,
       textTheme: CupertinoTextThemeData(
         navTitleTextStyle: TextStyle(
           fontSize: 15,
