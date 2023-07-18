@@ -3,5 +3,14 @@
     "loginUsernameHint": "Login or email",
     "loginPasswordHint": "Password",
     "loginButtonTitle": "Login",
-    "loginRegisterButtonTitle": "Register"
+    "loginRegisterButtonTitle": "Register",
+    "error": "Error",
+    "success": "Success",
+    "emailNotValidError": "Email format is not correct",
+    "passwordLengthError": "Password must contain at least 8 characters",
+    "profile": "Profile",
+    "favourites": "Favourites",
+    "map": "Map",
+    "feed": "Feed",
+    "logout": "Logout"
 }

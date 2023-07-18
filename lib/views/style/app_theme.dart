@@ -16,7 +16,7 @@ class AppTheme {
           color: CupertinoColors.black,
         ),
         textStyle: TextStyle(
-          fontSize: 14,
+          fontSize: 16,
           fontFamily: 'Monrope',
           color: CupertinoColors.black,
         ),

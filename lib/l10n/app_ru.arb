@@ -1,7 +1,16 @@
 {
-    "loginTitle": "Авторизаци",
+    "loginTitle": "Авторизация",
     "loginUsernameHint": "Логин или почта",
     "loginPasswordHint": "Пароль",
     "loginButtonTitle": "Войти",
-    "loginRegisterButtonTitle": "Зарегистрироваться"
+    "loginRegisterButtonTitle": "Зарегистрироваться",
+    "error": "Ошибка",
+    "success": "Успешно",
+    "emailNotValidError": "Неверный формат электронной почты",
+    "passwordLengthError": "Пароль должен состоять минимум из 8 символов",
+    "profile": "Профиль",
+    "favourites": "Избранные",
+    "map": "Карта",
+    "feed": "Лента",
+    "logout": "Выйти"
 }
