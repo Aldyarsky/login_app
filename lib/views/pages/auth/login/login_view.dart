@@ -9,7 +9,6 @@ import 'package:login_app/app/routing/route_names.dart';
 import 'package:login_app/views/widgets/custom_button.dart';
 import 'package:login_app/views/widgets/custom_text_field.dart';
 import 'package:login_app/views/widgets/custom_dialog.dart';
-import 'package:sizer/sizer.dart';
 
 import 'bloc/login_view_bloc.dart';
 
